@@ -24,7 +24,7 @@ Objectives
 - The application should have a clear separation of concerns (multiple components)
 - Take input from the user to update the page - update the page by filtering or manipulating the data on user interaction, or make further API requests to load more data that is then displayed.
 
-### Technologies used
+### Technologies 
 - React<br>
 - Javascript<br>
 - HTML<br>

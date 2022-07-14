@@ -1,5 +1,8 @@
 # Studio Ghibli Film Search App
 
+
+## Steps to run
+
 `npm start`
 
 Runs the app in the development mode.\

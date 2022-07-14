@@ -1,0 +1,65 @@
+.Container {
+  display: flexbox;
+  text-align: left;
+  padding-top: 0px;
+  padding-bottom: 50px;
+  padding: 50px;
+}
+
+.image-container {
+  float: left;
+  padding-right: 50px;
+}
+
+
+
+
+.film-title {
+  color: rgba(29, 29, 29, .7);
+}
+
+.content {
+  color: rgba(29, 29, 29, .7);
+  /* background-image: url('./images/totoro.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 70vh;
+  margin-left: 600px; */
+}
+
+.line-spacing {
+  line-height: 25px;
+}
+
+.App-header {
+  background-color: #379AAF;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  letter-spacing: 5px;
+  min-height: 100px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+
+}
+
+
+
+/* @media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+} */

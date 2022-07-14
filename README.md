@@ -70,14 +70,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 
-# Weekend Homework: React Application with Requests
+#Brief: React Application with Requests
 
 ### Learning Objectives
 
 - Be able to create a multi-component web application, with React
 - Be able to make API requests to load JSON data into your application
 
-## Brief
 
 Your task is to create an application that makes a request to an API and displays the data.
 

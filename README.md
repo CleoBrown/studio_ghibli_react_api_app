@@ -25,8 +25,8 @@ Objectives
 - Take input from the user to update the page - update the page by filtering or manipulating the data on user interaction, or make further API requests to load more data that is then displayed.
 
 ### Technologies used
-React<br>
-Javascript<br>
-HTML<br>
-CSS<br>
+- React<br>
+- Javascript<br>
+- HTML<br>
+- CSS<br>
 

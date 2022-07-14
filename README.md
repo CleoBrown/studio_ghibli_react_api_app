@@ -1,4 +1,4 @@
-
+## Studion Ghibli Film Search App
 
 ### `npm start`
 
@@ -9,24 +9,18 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 # Brief: React Application with Requests
 
+
+Create an application that makes a request to an API and displays the data.
+
+
+**API used:**
+Studio Ghibli: https://ghibliapi.herokuapp.com/
+
 ### Learning Objectives
 
 - Be able to create a multi-component web application, with React
 - Be able to make API requests to load JSON data into your application
 
-
-Your task is to create an application that makes a request to an API and displays the data.
-
-Suggested APIs:
-
-1. Studio Ghibli: https://ghibliapi.herokuapp.com/
-2. Reddit: (Append `.json` to any Reddit URL - for example https://www.reddit.com/r/javascript.json)
-3. Guardian search: https://content.guardianapis.com/search?q=brexit&format=json&api-key=test
-
-
-These APIs all allow browser requests without authentication or keys. (In the case of the Guardian, `api-key=test` should be sufficient.)
-
-There is a more extensive list of public APIs [here](https://github.com/public-apis/public-apis) that have varying degrees of accessibility. If you choose to use a different API, make sure you are able to load the data into your application without issue, so that you can spend the time focussing on building your application. We suggest you do not use an API that requires authentication (OAuth), though using an API which requires a key is fine, as long as you are able to get a key quickly and easily.
 
 ### MVP
 

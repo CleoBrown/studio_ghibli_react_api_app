@@ -1,4 +1,4 @@
-## Studion Ghibli Film Search App
+# Studio Ghibli Film Search App
 
 ### `npm start`
 
@@ -7,7 +7,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 
 
-# Brief: React Application with Requests
+## Brief: React Application with Requests
 
 
 Create an application that makes a request to an API and displays the data.

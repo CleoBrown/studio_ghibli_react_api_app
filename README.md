@@ -28,9 +28,22 @@ Objectives
 
 ## Steps to run
 
-`npm start`
+This project was bootstrapped with Create React App.<br>
+To run the following ensure  Node.js installed https://nodejs.org/en/ <br>
 
-Runs the app in the development mode.\
+- Install Node Package Manager(NPM):
+```
+npm update
+
+npm install 
+```
+
+Run app in development mode
+```
+npm start
+```
+
+
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 

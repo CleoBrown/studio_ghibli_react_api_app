@@ -40,7 +40,7 @@ npm update
 npm install 
 ```
 
-- Run app in development mode<br>
+- Run app in development mode:<br>
 <br>Run:
 ```
 npm start

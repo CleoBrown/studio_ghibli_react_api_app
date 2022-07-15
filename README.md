@@ -31,14 +31,16 @@ Objectives
 This project was bootstrapped with Create React App.<br>
 To run the following ensure  Node.js installed https://nodejs.org/en/ <br>
 
-- Install Node Package Manager(NPM):
+- Install Node Package Manager(NPM):<br>
+<br>Run:
 ```
 npm update
 
 npm install 
 ```
 
-- Run app in development mode
+- Run app in development mode<br>
+<br>Run:
 ```
 npm start
 ```

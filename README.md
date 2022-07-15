@@ -1,15 +1,5 @@
 # Studio Ghibli Film Search App
 
-
-## Steps to run
-
-`npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-
-
 ## Brief: React Application with Requests
 
 
@@ -32,4 +22,16 @@ Objectives
 - Javascript<br>
 - HTML<br>
 - CSS<br>
+
+
+
+
+## Steps to run
+
+`npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+
 

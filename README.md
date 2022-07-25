@@ -22,10 +22,29 @@ Objectives
 - Javascript<br>
 - React<br>
 
+## Running locally with Docker
 
+Ensure you have Docker installed and running. 
 
+To build the image locally, cd into this project root directory in a terminal and run:
 
+```
+docker build -t ghibli .
+```
 
+To run the container use:
+
+```
+docker run -p 3000:3000 -d --name ghibli_app ghibli
+```
+
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+To stop the container, use:
+
+```
+docker stop ghibli_app
+```
 
 ## Manual steps to run
 

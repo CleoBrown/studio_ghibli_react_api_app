@@ -1,6 +1,6 @@
 # Studio Ghibli Film Search App
 
-![API use example](https://myoctocat.com/assets/images/base-octocat.svg)
+![API use example](https://github.com/CleoBrown/studio_ghibli_react_api_app/blob/main/Screenshot%201%20API%20Example.png)
 
 ## Brief: React Application with Requests
 

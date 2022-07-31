@@ -6,7 +6,9 @@ _Ensure you have [Docker installed](https://docs.docker.com/get-docker/) and run
 
 ```
 docker run -p 3000:3000 --name ghibli_app cleobrown/ghibli
+
 ```
+App should be running on [http://localhost:3000](http://localhost:3000) 
 
 ---
 
@@ -34,7 +36,7 @@ Objectives
 - Javascript<br>
 - React<br>
 
-## Running locally with Docker
+## Run with Docker - build locally
 
 _Ensure you have [Docker installed](https://docs.docker.com/get-docker/) and running on your machine._
 
@@ -50,7 +52,8 @@ To run the container use:
 docker run -p 3000:3000 -d --name ghibli_app ghibli
 ```
 
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+App should be running on [http://localhost:3000](http://localhost:3000) 
+
 
 To stop the container, use:
 

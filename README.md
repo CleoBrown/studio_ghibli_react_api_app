@@ -61,7 +61,8 @@ docker stop ghibli_app
 ## Alternative manual steps to run
 
 This project was bootstrapped with Create React App.<br>
-To run the following ensure  Node.js installed https://nodejs.org/en/ <br>
+
+_Ensure you have Node.js installed https://nodejs.org/en/ on your machine_<br>
 
 - Install Node Package Manager(NPM):<br>
 <br>Run:

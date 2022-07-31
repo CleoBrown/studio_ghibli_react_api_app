@@ -1,5 +1,13 @@
 # Studio Ghibli Film Search App
 
+## Quick Start
+
+```
+docker run -p 3000:3000 --name ghibli_app cleobrown/ghibli
+```
+
+---
+
 ![API use example](./Screenshot%201%20API%20Example.png)
 
 ## Brief: React Application with Requests

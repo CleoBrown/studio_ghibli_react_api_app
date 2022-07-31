@@ -79,7 +79,7 @@ npm start
 ```
 
 
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+App should be running on [http://localhost:3000](http://localhost:3000) 
 
 
 

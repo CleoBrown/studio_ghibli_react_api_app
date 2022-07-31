@@ -36,7 +36,7 @@ Objectives
 
 ## Running locally with Docker
 
-Ensure you have Docker installed and running. 
+_Ensure you have [Docker installed](https://docs.docker.com/get-docker/) and running on your machine._
 
 To build the image locally, cd into this project root directory in a terminal and run:
 
